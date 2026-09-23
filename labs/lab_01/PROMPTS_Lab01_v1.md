@@ -1,6 +1,6 @@
 # Lab 1 · AI and contribution record
 
-Members: Baptiste Vial and Vicente Rodriguez.
+Members: Baptiste Vial and Vicente Rodríguez.
 
 **How we worked:** we worked on the lab at the same time, on a call throughout, and discussed every section together to check it was correct. The table below shows who led each part, but both of us reviewed and agreed on all of it.
 
@@ -26,4 +26,4 @@ Verification, observed result and limitation (notebook reference allowed): We co
 | Member | Contribution and evidence reference |
 |---|---|
 | Baptiste Vial | Wrote the first version of the target/audit section (commit `6ef2eb1`) and the first plot and code for EDA questions 1 and 3. Led the AI-assisted rubric audit and the improvements to section 1 and EDA questions 1 and 3 (notebook sections 1, 2 and 4). Discussed every section with Vicente on call. |
-| Vicente Rodriguez | Wrote EDA question 2: teammate pairs and the independence check (notebook section 3, commit `f3bf0c6`). Checked the work against the rubric's assigned points and reviewed all sections. Discussed every section with Baptiste on call. |
+| Vicente Rodríguez | Wrote EDA question 2: teammate pairs and the independence check (notebook section 3, commit `f3bf0c6`). Checked the work against the rubric's assigned points and reviewed all sections. Discussed every section with Baptiste on call. |
